@@ -1,0 +1,30 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Shrikhand&display=swap');
+
+body{
+    font-family: "Shrikhand", cursive;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+}
+.pacifico-regular {
+    font-family: "Shrikhand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+.heading{
+    font-size: 5rem;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+    background-color: #00cc00;
+    background-image:linear-gradient(170deg, #f1b7ea 0%, #a677db 30%, #92b1df 77%) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
